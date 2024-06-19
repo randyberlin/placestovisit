@@ -16,6 +16,34 @@
             "6":"The British Museum",
           }
         },
+        {
+          "City": "London",
+          "Country": "England",
+          "Population": "8,799,800",
+          "Website": "Lwww.london.gov.uk",
+          "Places_to_visit": {
+            "1":"Westminster",
+            "2":"Buckingham Palace",
+            "3":"The London Eye",
+            "4":"Trafalgar Square",
+            "5":"Tower of London",
+            "6":"The British Museum",
+          }
+        },
+        {
+          "City": "Milan",
+          "Country": "Italy",
+          "Population": "",
+          "Website": "",
+          "Places_to_visit": {
+            "1":"Duomo di Milano",
+            "2":"Galleria Vittorio Emanuele II",
+            "3":"Sforzesco Castle",
+            "4":"Teatro alla Scala",
+            "5":"Piazza del Duomo",
+            "6":"MMonumental Cementery",
+          }
+        },
       ],
     }
   }
