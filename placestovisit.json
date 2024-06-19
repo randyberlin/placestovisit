@@ -1,0 +1,19 @@
+{
+    "Places To Visit":  {
+      "Time":"2024",
+      "Top Places to Visit":[
+        {
+          "City": "London",
+          "Country": "England",
+          "Population": "8,799,800",
+          "Website": "Lwww.london.gov.uk",
+          "Places_to_visit": {
+            "1":"Westminster",
+            "2":"Buckingham Palace",
+            "3":"The London Eye",
+            "4":"Trafalgar Square",
+          }
+        },
+      ],
+    }
+  }
