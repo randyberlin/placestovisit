@@ -17,17 +17,17 @@
           }
         },
         {
-          "City": "London",
-          "Country": "England",
-          "Population": "8,799,800",
-          "Website": "Lwww.london.gov.uk",
+          "City": "Los Angeles",
+          "Country": "United States",
+          "Population": "3,822,000",
+          "Website": "lacity.gov",
           "Places_to_visit": {
-            "1":"Westminster",
-            "2":"Buckingham Palace",
-            "3":"The London Eye",
-            "4":"Trafalgar Square",
-            "5":"Tower of London",
-            "6":"The British Museum",
+            "1":"Universal Studios Hollywood",
+            "2":"The Getty",
+            "3":"Griffith Observatory",
+            "4":"Hollywood Sign",
+            "5":"LA County Musuem",
+            "6":"Hollywood Bowl",
           }
         },
         {
